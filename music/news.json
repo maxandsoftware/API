@@ -1,9 +1,9 @@
 {
   "news":{
-    "versions": ["all"],
+    "versions": ["v0.0.1"],
     "languages": ["en"],
     "author": ["Maxand Music"],
-    "date": ["01/05/2023"],
+    "date": ["11/07/2023"],
     "title": "Welcome to Maxand Music v0.0.1!",
     "text": ["Hi", "to the"]
   }
