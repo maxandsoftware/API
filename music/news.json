@@ -1,10 +1,20 @@
 {
   "news":{
-    "versions": ["v0.0.1"],
+    "app_version": ["v0.0.1"],
+    "news_version": ["v1"],
     "languages": ["en"],
     "author": ["Maxand Music"],
     "date": ["11/07/2023"],
-    "title": "Welcome to Maxand Music v0.0.1!",
-    "text": ["Hi", "to the"]
+    "title": "Test",
+    "text": ["We are <b> testing </b> our application.", "This is a test."]
+  }
+  "news":{
+    "app_version": ["v0.0.1"],
+    "news_version": ["v3"],
+    "languages": ["en"],
+    "author": ["Maxand Music"],
+    "date": ["11/07/2023"],
+    "title": "Test",
+    "text": ["We are <b> testing </b> our application.", "This is a test."]
   }
 }
