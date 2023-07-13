@@ -3,11 +3,11 @@
     "app_version": ["v0.0.1"],
     "news_version": ["v1"],
     "languages": ["en"],
-    "preview-image": "",
-    "preview-text": "",
+    "preview-image": "https://maxandsoftware.github.io/API/music/media/help.jpg",
+    "preview-text": "test test test test",
     "author": ["Maxand Music"],
     "date": ["11/07/2023"],
-    "title": "Test",
+    "title": "Test news",
     "text": ["We are <b> testing </b> our application.", "This is a test."]
   }
 }
