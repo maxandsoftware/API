@@ -5,8 +5,8 @@
     "languages": ["en"],
     "preview-image": "https://maxandsoftware.github.io/API/music/media/help.jpg",
     "preview-text": "test test test test",
-    "author": ["Maxand Music"],
-    "date": ["11/07/2023"],
+    "author": "Maxand Music",
+    "date": "11/07/2023",
     "title": "Test news",
     "text": ["We are <b> testing </b> our application.", "This is a test."]
   },
@@ -16,8 +16,8 @@
     "languages": ["en"],
     "preview-image": "https://maxandsoftware.github.io/API/music/media/help.jpg",
     "preview-text": "second test test",
-    "author": ["Maxand Music"],
-    "date": ["11/07/2023"],
+    "author": "Maxand Music",
+    "date": "11/07/2023",
     "title": "secons test",
     "text": ["We are <b> testing </b> our application.", "This is a test."]
   }
