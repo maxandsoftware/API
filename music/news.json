@@ -9,6 +9,7 @@
     "date": "11/07/2023",
     "title": "Test news",
     "text": ["We are <b> testing </b> our application.", "This is a test."]
+    "id": "9272697102"
   },
   "2":{
     "app_version": ["v0.0.1"],
@@ -20,5 +21,6 @@
     "date": "11/07/2023",
     "title": "secons test",
     "text": ["We are <b> testing </b> our application.", "This is a test."]
+    "id": "2005289753"
   }
 }
