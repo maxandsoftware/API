@@ -4,43 +4,43 @@
 		"url": "https://ria.ru/",
 		"rss": "https://ria.ru/export/rss2/archive/index.xml",
 		"category": "false",
-		"logo": ""
+		"logo": "https://maxandsoftware.github.io/API/news/media/ria.png"
 	},
 	"rt": {
 		"url": "https://russian.rt.com/",
 		"rss": "https://russian.rt.com/rss",
 		"category": "false",
-		"logo": ""
+		"logo": "https://maxandsoftware.github.io/API/news/media/rt.png"
 	},
 	"iz": {
 		"url": "https://iz.ru/",
 		"rss": "https://iz.ru/xml/rss/all.xml",
 		"category": "false",
-		"logo": ""		
+		"logo": "https://maxandsoftware.github.io/API/news/media/iz.png"		
 	},
 	"tass": {
 		"url": "https://iz.ru/",
 		"rss": "https://iz.ru/xml/rss/all.xml",
 		"category": "true",
-		"logo": ""				
+		"logo": "https://maxandsoftware.github.io/API/news/media/tass.png"				
 	},
 	"rbc": {
 		"url": "https://www.rbc.ru/",
 		"rss": "https://rssexport.rbc.ru/rbcnews/news/30/full.rss",
 		"category": "true",
-		"logo": ""			
+		"logo": "https://maxandsoftware.github.io/API/news/media/rbc.png"			
 	},
 	"rg": {
 		"url": "https://rg.ru/",
 		"rss": "https://rg.ru/xml/index.xml",
 		"category": "false",
-		"logo": ""			
+		"logo": "https://maxandsoftware.github.io/API/news/media/rg.png"			
 	},
 	"lenta": {
 		"url": "https://lenta.ru/",
 		"rss": "https://lenta.ru/rss",
 		"category": "true",
-		"logo": ""			
+		"logo": "https://maxandsoftware.github.io/API/news/media/lenta.png"			
 	}
 	
 }
