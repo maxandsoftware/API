@@ -19,15 +19,29 @@
 		"logo": "https://maxandsoftware.github.io/API/news/media/iz.png"		
 	},
 	"tass": {
-		"url": "https://iz.ru/",
-		"rss": "https://iz.ru/xml/rss/all.xml",
-		"category": "true",
+		"url": "https://tass.ru/",
+		"rss": "https://tass.ru/rss/v2.xml",
+		"category": {
+			"ru": "В стране",
+			"politic": "Политика",
+			"economic": "Экономика и бизнес",
+			"smo": "Военная операция на Украине",
+			"sport": "Спорт",
+			"accidents": "Происшествия"
+		},
 		"logo": "https://maxandsoftware.github.io/API/news/media/tass.png"				
 	},
 	"rbc": {
 		"url": "https://www.rbc.ru/",
 		"rss": "https://rssexport.rbc.ru/rbcnews/news/30/full.rss",
-		"category": "true",
+		"category": {
+			"ru": "Общество",
+			"politic": "Политика",
+			"economic": "Экономика",
+			"smo": "None",
+			"sport": "None",
+			"accidents": "None"
+		},
 		"logo": "https://maxandsoftware.github.io/API/news/media/rbc.png"			
 	},
 	"rg": {
@@ -39,7 +53,14 @@
 	"lenta": {
 		"url": "https://lenta.ru/",
 		"rss": "https://lenta.ru/rss",
-		"category": "true",
+		"category": {
+			"ru": "Россия",
+			"politic": "Мир",
+			"economic": "Экономика",
+			"smo": "None",
+			"sport": "Спорт",
+			"accidents": "None"
+		},
 		"logo": "https://maxandsoftware.github.io/API/news/media/lenta.png"			
 	}
 	
