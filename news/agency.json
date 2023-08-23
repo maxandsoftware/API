@@ -35,7 +35,7 @@
 		"rss": "https://rg.ru/xml/index.xml",
 		"category": "false",
 		"logo": ""			
-	}
+	},
 	"lenta": {
 		"url": "https://lenta.ru/",
 		"rss": "https://lenta.ru/rss",
