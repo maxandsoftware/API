@@ -1,0 +1,8 @@
+<script>
+var resp = '';
+var xmlHttp = new XMLHttpRequest();
+xmlHttp.open( "GET", "https://rg.ru/xml/index.xml", false);
+xmlHttp.send( null );
+resp = xmlHttp.responseText;
+console.log(resp);
+</script>
