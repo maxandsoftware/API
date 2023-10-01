@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Российская Газета",
+		"logo": "https://maxandsoftware.github.io/API/news/logo/rg.png",
+		"domain": "rg.ru",
+		"phone": ["+7 (495) 775-31-18", "+7 (499) 257-56-50"],
+		"mail": ["mail@rg.ru"],
+		"founder": "ФГБУ Редакция «Российской газеты»",
+		"address": "125993 А-40, ГСП-3, Москва г., ул. Правды, д. 24, стр. 4",
+		"certificate-name": "ЭЛ № ФС 77 - 50379",
+		"certificate-url": "https://maxandsoftware.github.io/API/news/certificate/rg.pdf",
+		"rkn": "https://rkn.gov.ru/mass-communications/reestr/media/?id=381608"
+	},
+	{
+		"name": "Российская Газета",
+		"logo": "https://maxandsoftware.github.io/API/news/logo/rg.png",
+		"domain": "rg.ru",
+		"phone": ["+7 (495) 775-31-18", "+7 (499) 257-56-50"],
+		"mail": ["mail@rg.ru"],
+		"founder": "ФГБУ Редакция «Российской газеты»",
+		"address": "125993 А-40, ГСП-3, Москва г., ул. Правды, д. 24, стр. 4",
+		"certificate": "ЭЛ № ФС 77 - 50379",
+		"certificate-url": "https://maxandsoftware.github.io/API/news/certificate/rg.pdf",
+		"rkn": "https://rkn.gov.ru/mass-communications/reestr/media/?id=381608"
+	}
+]
